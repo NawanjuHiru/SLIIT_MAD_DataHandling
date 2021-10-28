@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial 05</string>
+    <string name="tv_username">User name</string>
+    <string name="tv_password">Password</string>
+    <string name="edt_username">Name</string>
+    <string name="edt_password">Password</string>
+    <string name="btn_selectall">Select All</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_signIn">Sign In</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+</resources>
